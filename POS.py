@@ -1,4 +1,4 @@
-# MODELS 
+# MODELS -- 77
 
 from datetime import datetime
 from unicodedata import category
@@ -73,7 +73,7 @@ class salesItems(models.Model):
 
 
 
-
+#*******
 # VIEWS
 from pickle import FALSE
 from django.shortcuts import redirect, render
